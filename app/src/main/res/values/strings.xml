@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FirebaseDemo</string>
+    <string name="tab_chats">Chats</string>
+    <string name="tab_groups">Groups</string>
+    <string name="tab_contacts">Contacts</string>
+</resources>
