@@ -17,5 +17,7 @@ https://firebase.google.com/docs/android/setup
 ![message](https://user-images.githubusercontent.com/17309975/26862697-368c7970-4b6f-11e7-81be-35fba6ef11d6.png)
 
 
-
+# Contributions
+1. Please leave your suggestion. 
+2. Contribute please
 
