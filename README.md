@@ -19,5 +19,5 @@ https://firebase.google.com/docs/android/setup
 
 # Contributions
 1. Please leave your suggestion. 
-2. Contribute please
+2. Please contribute if you want.
 
